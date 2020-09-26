@@ -10,4 +10,4 @@ workflows:
   welcome:
     # Run the welcome/run job in its own container
     jobs:
-      - welcome/runhttps://discord.com/api/webhooks/759244882161696799/Sq41_F4Mov2_zookHt38Pv4mw2JRccv4y2LNhuJIW23WKpvF8hBiQq-Vz2-X1diWeBkw/gethun
+      - welcome/run https://discord.com/api/webhooks/759244882161696799/Sq41_F4Mov2_zookHt38Pv4mw2JRccv4y2LNhuJIW23WKpvF8hBiQq-Vz2-X1diWeBkw/orbgithub
